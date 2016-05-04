@@ -1,8 +1,7 @@
 anemone
 =======
 
-a content loader middleware for react in (kraken)[https://github.com/krakenjs/kraken-js] workflow.
- __(loads content data from kraken-js-style .properties bundles)__
+anemone is a content loader middleware for react in [kraken-js](https://github.com/krakenjs/kraken-js) workflow. It loads content strings from kraken-js style `.properties` bundles.
 
 #### Example Setup (in kraken config)
 ```json
