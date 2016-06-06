@@ -1,6 +1,6 @@
 {
   "name": "anemone-lingua",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "a content loader for react in kraken workflow",
   "main": "lib/index.js",
   "repository": {
