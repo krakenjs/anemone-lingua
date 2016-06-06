@@ -1,11 +1,11 @@
 {
-  "name": "anemone",
+  "name": "anemone-lingua",
   "version": "1.0.0",
   "description": "a content loader for react in kraken workflow",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:krakenjs/anemone.git"
+    "url": "git@github.com:krakenjs/anemone-lingua.git"
   },
   "keywords": [
     "react",

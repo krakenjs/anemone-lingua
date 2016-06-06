@@ -1,7 +1,7 @@
-anemone
+anemone-lingua
 =======
 
-anemone is a content loader middleware for react in [kraken-js](https://github.com/krakenjs/kraken-js) workflow. It loads content strings from kraken-js style `.properties` bundles.
+anemone-lingua is a content loader middleware for react in [kraken-js](https://github.com/krakenjs/kraken-js) workflow. It loads content strings from kraken-js style `.properties` bundles.
 
 #### Example Setup (in kraken config)
 ```json
@@ -11,7 +11,7 @@ anemone is a content loader middleware for react in [kraken-js](https://github.c
       "priority": 100,
       "enabled": true,
       "module": {
-          "name": "anemone",
+          "name": "anemone-lingua",
           "arguments": [{
               "contentPath": "path:./locales",
               "fallback": "en-US"
@@ -24,5 +24,5 @@ anemone is a content loader middleware for react in [kraken-js](https://github.c
 
 #### To enable debug messages
 ```shell
-NODE_DEBUG=anemone node YOUR-APP-FILE.js
+NODE_DEBUG=anemone-lingua node YOUR-APP-FILE.js
 ```
